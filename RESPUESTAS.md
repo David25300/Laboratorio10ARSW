@@ -334,4 +334,4 @@ El grupo SCALABILITY_LAB_II quedó con la Function App, su plan de consumo (ASP-
 
 La implementación marcada como errónea es la regla de alertas "Failure Anomalies" que Application Insights intenta crear automáticamente. No afecta al laboratorio.
 
-Sin tráfico, la Function App no genera costo de cómputo. Solo quedan unos centavos de almacenamiento.
+Al terminar las pruebas, el grupo de recursos se eliminó completo (31/10/2026) para no gastar crédito de la suscripción. Por eso la URL de la Function App que aparece en el entorno de Postman ya no responde.
