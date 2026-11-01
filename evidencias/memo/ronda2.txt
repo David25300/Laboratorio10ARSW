@@ -1,0 +1,7 @@
+# Ronda 2: despues de 360 s sin peticiones
+23:06:06 nth=20000 -> {"nth":20000,"instance":"91899f69","uptimeSeconds":846,"memoBefore":0,"memoAfter":0,"timeMs":4,"error":"RangeError: Maximum call stack size exceeded"} HTTP=500 total=0.368388s
+23:06:07 nth=10000 -> {"nth":10000,"instance":"91899f69","uptimeSeconds":847,"memoBefore":0,"memoAfter":9999,"timeMs":14,"answer":"33644764876431783266... (2090 digitos)"} HTTP=200 total=0.261027s
+23:06:07 nth=5000 -> {"nth":5000,"instance":"91899f69","uptimeSeconds":847,"memoBefore":9999,"memoAfter":9999,"timeMs":0,"answer":"38789684543883256337... (1045 digitos)"} HTTP=200 total=0.272133s
+23:06:08 nth=10000 -> {"nth":10000,"instance":"91899f69","uptimeSeconds":848,"memoBefore":9999,"memoAfter":9999,"timeMs":0,"answer":"33644764876431783266... (2090 digitos)"} HTTP=200 total=0.262417s
+23:06:08 nth=20000 -> {"nth":20000,"instance":"91899f69","uptimeSeconds":848,"memoBefore":9999,"memoAfter":19999,"timeMs":24,"answer":"25311623237323612422... (4180 digitos)"} HTTP=200 total=0.266457s
+23:06:09 nth=1000000 -> {"nth":1000000,"instance":"91899f69","uptimeSeconds":849,"memoBefore":19999,"memoAfter":19999,"timeMs":4,"error":"RangeError: Maximum call stack size exceeded"} HTTP=500 total=0.244470s

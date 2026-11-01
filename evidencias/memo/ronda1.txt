@@ -1,0 +1,6 @@
+22:56:12 nth=5000 -> {"nth":5000,"instance":"64bb3494","uptimeSeconds":252,"memoBefore":0,"memoAfter":4999,"timeMs":6,"answer":"38789684543883256337... (1045 digitos)"} HTTP=200 total=0.397314s
+22:56:13 nth=10000 -> {"nth":10000,"instance":"64bb3494","uptimeSeconds":253,"memoBefore":4999,"memoAfter":9999,"timeMs":10,"answer":"33644764876431783266... (2090 digitos)"} HTTP=200 total=0.256410s
+22:56:13 nth=10000 -> {"nth":10000,"instance":"64bb3494","uptimeSeconds":253,"memoBefore":9999,"memoAfter":9999,"timeMs":1,"answer":"33644764876431783266... (2090 digitos)"} HTTP=200 total=0.235193s
+22:56:14 nth=20000 -> {"nth":20000,"instance":"64bb3494","uptimeSeconds":254,"memoBefore":9999,"memoAfter":19999,"timeMs":37,"answer":"25311623237323612422... (4180 digitos)"} HTTP=200 total=0.309424s
+22:56:14 nth=1000000 -> {"nth":1000000,"instance":"64bb3494","uptimeSeconds":254,"memoBefore":19999,"memoAfter":19999,"timeMs":3,"error":"RangeError: Maximum call stack size exceeded"} HTTP=500 total=0.241179s
+22:56:15 nth=20000 -> {"nth":20000,"instance":"64bb3494","uptimeSeconds":255,"memoBefore":19999,"memoAfter":19999,"timeMs":0,"answer":"25311623237323612422... (4180 digitos)"} HTTP=200 total=0.268622s

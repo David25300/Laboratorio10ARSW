@@ -1,0 +1,8 @@
+$ code --install-extension ms-azuretools.vscode-azurefunctions
+Installing extension 'ms-azuretools.vscode-azurefunctions'...
+Extension 'ms-azuretools.vscode-azurefunctions' v1.22.2 was successfully installed.
+Extension 'ms-azuretools.vscode-azureresourcegroups' v0.13.2 was successfully installed.
+
+$ code --list-extensions --show-versions | grep -i azure
+ms-azuretools.vscode-azurefunctions@1.22.2
+ms-azuretools.vscode-azureresourcegroups@0.13.2
